@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi 👋, I'm Mounish Boyapati
 
-<!--
-**Mounish99-gif/Mounish99-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Science enthusiast passionate about analyzing data and building machine learning models.
 
-Here are some ideas to get you started:
+### 🌱 Currently Learning
+- Python for Data Science
+- Machine Learning
+- Data Analysis & Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tools & Skills
+- Python, Pandas, NumPy
+- SQL
+- Jupyter Notebook
+- Git & GitHub
+
+### 📫 Contact
+- Email: boyapatimounish27@gmail.com
